@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/liujikang/eda-challenge-2022/q4/iRouter/build",
+  "command": "/usr/bin/g++-10   -I../test -I../src -I../src/data_manager -I../src/logger -I../src/util  -g   -std=gnu++2a -o CMakeFiles/run_router.dir/test/test.cpp.o -c /home/liujikang/eda-challenge-2022/q4/iRouter/test/test.cpp",
+  "file": "/home/liujikang/eda-challenge-2022/q4/iRouter/test/test.cpp"
+},
+
+{
+  "directory": "/home/liujikang/eda-challenge-2022/q4/iRouter/build",
+  "command": "/usr/bin/g++-10   -I../src -I../src/data_manager -I../src/logger -I../src/util  -g   -std=gnu++2a -o src/CMakeFiles/irt_router.dir/Router.cpp.o -c /home/liujikang/eda-challenge-2022/q4/iRouter/src/Router.cpp",
+  "file": "/home/liujikang/eda-challenge-2022/q4/iRouter/src/Router.cpp"
+},
+
+{
+  "directory": "/home/liujikang/eda-challenge-2022/q4/iRouter/build",
+  "command": "/usr/bin/g++-10   -I../src -I../src/data_manager -I../src/logger -I../src/util  -g   -std=gnu++2a -o src/CMakeFiles/irt_router.dir/data_manager/DataManager.cpp.o -c /home/liujikang/eda-challenge-2022/q4/iRouter/src/data_manager/DataManager.cpp",
+  "file": "/home/liujikang/eda-challenge-2022/q4/iRouter/src/data_manager/DataManager.cpp"
+},
+
+{
+  "directory": "/home/liujikang/eda-challenge-2022/q4/iRouter/build",
+  "command": "/usr/bin/g++-10   -I../src -I../src/data_manager -I../src/logger -I../src/util  -g   -std=gnu++2a -o src/CMakeFiles/irt_router.dir/logger/Logger.cpp.o -c /home/liujikang/eda-challenge-2022/q4/iRouter/src/logger/Logger.cpp",
+  "file": "/home/liujikang/eda-challenge-2022/q4/iRouter/src/logger/Logger.cpp"
+}
+]

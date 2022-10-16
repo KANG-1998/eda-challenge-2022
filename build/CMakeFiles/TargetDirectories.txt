@@ -1,0 +1,8 @@
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/CMakeFiles/rebuild_cache.dir
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/CMakeFiles/edit_cache.dir
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/CMakeFiles/run_router.dir
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/api/CMakeFiles/rebuild_cache.dir
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/api/CMakeFiles/edit_cache.dir
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/src/CMakeFiles/rebuild_cache.dir
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/src/CMakeFiles/edit_cache.dir
+/home/liujikang/eda-challenge-2022/q4/iRouter/build/src/CMakeFiles/irt_router.dir
